@@ -1,4 +1,4 @@
-package org.example;
+package org.example.menu.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -15,8 +15,8 @@ public class Menu {
     private int ice;
     private int syrup;
 
-    public Menu(int menuId, String menuName, int menuPrice, int ice, int syrup) {
-
-    }
+    //public Menu(int menuId, String menuName, int menuPrice, int ice, int syrup) {
+     
+    // }
 
 }
